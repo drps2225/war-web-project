@@ -1,6 +1,6 @@
 //pipeline {
-    agent any
-    tools {
+   // agent any
+    //tools {
         maven 'Maven363'
     }
     options {
